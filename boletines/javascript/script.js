@@ -25,7 +25,7 @@ links.forEach(function(link) {
         
         // Indicando el tiempo de redireccion
         setTimeout(function(){
-            location.href = "/";
+            location.href = "/boletines";
         }, 800);
         
 
